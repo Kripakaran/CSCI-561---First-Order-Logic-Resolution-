@@ -1,2 +1,2 @@
-# CSCI 561 - First Order Logic Resolution 
- Programming assingment 3 done under Professor Laurent Itti as part of CSCI 561 course at USC in Fall 2019
+#  First Order Logic Resolution 
+Developed a beta version of an automation system to alert customers about potential drug interactions for over the counter and prescribed drugs using First Order logic inference.
